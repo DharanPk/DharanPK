@@ -19,50 +19,64 @@
 - 💼 Currently working as a **Software Engineer** building applications with **React.js** and **Java Spring Boot**
 - 🌱 Learning Data Engineering & ETL pipelines
 - 💬 Ask me about: Java, Spring Boot, React.js, SQL, Databases, Full Stack Development
-- 📫 Reach me at: dharanmd369@gmail.com
+- 📫 Reach me at: pkdharaneesh031@gmail.com
 - ⚡ Fun fact: I love turning ideas into clean, working code!
 
 ---
 
-## 🛠 Skills & Tools
+## 🔧 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Frontend:** HTML, CSS, React, Tailwind CSS
+**Backend:** Java, Spring Boot
+**Databases:** MongoDB, SQL
+**Languages:** JavaScript, Java
+**Tools:** Git, VS Code, Postman, MongoDB Compass
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Core Tech & Languages
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DharanPk&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanPk&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+</p>
+
+## ⚙ Tools & Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="npm logo" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dharaneesh-p-k-342621259/)
-- ✉ Email: dharanmd369@gmail.com
+- 🔗 LinkedIn: 
+- 🌐 Portfolio: 
+- ✉ Email: pkdharaneesh031@gmail.com
 
 ---
 
