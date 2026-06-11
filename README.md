@@ -26,10 +26,10 @@
 
 ## 🔧 Tech Stack
 
-**Frontend:** HTML, CSS, React, Tailwind CSS
-**Backend:** Java, Spring Boot
-**Databases:** MongoDB, SQL
-**Languages:** JavaScript, Java
+**Frontend:** HTML, CSS, React, Tailwind CSS</br>
+**Backend:** Java, Spring Boot</br>
+**Databases:** MongoDB, SQL</br>
+**Languages:** JavaScript, Java</br>
 **Tools:** Git, VS Code, Postman, MongoDB Compass
 
 ---
