@@ -17,7 +17,6 @@
 ## 💫 About Me
 
 - 💼 Currently working as a **Software Engineer** building applications with **React.js** and **Java Spring Boot**
-- 🌱 Learning Data Engineering & ETL pipelines
 - 💬 Ask me about: Java, Spring Boot, React.js, SQL, Databases, Full Stack Development
 - 📫 Reach me at: pkdharaneesh031@gmail.com
 - ⚡ Fun fact: I love turning ideas into clean, working code!
@@ -74,8 +73,8 @@
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: 
-- 🌐 Portfolio: 
+- 🔗 LinkedIn: https://www.linkedin.com/in/dharaneesh-p-k-342621259/
+- 🌐 Portfolio: processing..
 - ✉ Email: pkdharaneesh031@gmail.com
 
 ---
