@@ -2,12 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Dharaneesh PK</h1>
 <h3 align="center">Software Engineer | React.js & Java Spring Boot Developer | Passionate Learner</h3>
 
-<p align="center">
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20opportunities-brightgreen?style=for-the-badge" />
-</p>
 
 ---
 
