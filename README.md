@@ -3,10 +3,7 @@
 <h3 align="center">Software Engineer | React.js & Java Spring Boot Developer | Passionate Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/DharanPk">
-    <img src="https://komarev.com/ghpvc/?username=DharanPk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20opportunities-brightgreen?style=for-the-badge" />
